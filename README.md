@@ -1,4 +1,4 @@
-## Oi, eu sou João Paulo Uba, sou Engenheiro de Controle e Automação, atuo profissionalmente como Dev Mobile iOS!
+## Hi! I am João Paulo Uba Ferreira, a Control and Automation Engineer (or Mechatronic) who develops some mobile apps with React-Native(current job), Flutter(side hustles) and have some working background with Swift.
 <div align="center">
   <a href="https://github.com/joaopauloubaf">
 </div>
